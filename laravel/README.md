@@ -12,6 +12,6 @@ The all-in-one softphone with centralized provisioning, messaging, and integrati
 
 ## About this example
 
-In this example you will find a basic Laravel example on how to send a file to a Ringotel user, using the Messagin API.
+In this example you will find a basic Laravel project that shows how to send a file to a Ringotel user, using the Ringotel Messaging API.
 
 
